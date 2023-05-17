@@ -36,9 +36,9 @@ header li a{
 }
 /* Logo */
 header li img{
-    width: 80px;
+    width: 130px;
     float: left;
-    margin-top: -15px;
+    margin-top: -10px;
     margin-left: -10px;
 }
 /* Footer */
