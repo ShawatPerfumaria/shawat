@@ -1,0 +1,78 @@
+body{
+    background-color: #FFEFEF;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    text-align: center;
+}
+/* Inicio do Header */
+header{
+    background-color: white;
+    padding: 15px;
+    box-shadow: 0 0 3px black;
+}
+header li{
+    display: inline;
+    padding-left: 55px;
+}
+header li a{
+    color: #500A0A;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 25px;
+}
+/* Botão Especial */
+#retorno a{
+    color: white;
+    background-color: #500A0A;
+    border-radius: 20px;
+    float: right;
+    position: relative;
+    font-size: 18px;
+    left: -10px;
+}
+#retorno a:hover{
+    background-color: #FFBABA;
+}
+/* Logo */
+header li img{
+    width: 80px;
+    float: left;
+    margin-top: -15px;
+    margin-left: -10px;
+}
+h4{
+    font-family: italic;
+    color: #500A0A;
+    background-color: white;
+    box-shadow: 0 0 3px black;
+    top: 10px;
+    bottom: 10px;
+    margin-left: 32%;
+    margin-right: 32%;
+}
+/* Texto */
+.texto{
+    font-family: Arial;
+    font-size: 15;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+/* Slogan */
+p{
+    font-size: 22;
+    margin: 20%;
+}
+/* Footer */
+footer{
+    color: white;
+    background-color: #500A0A;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 16;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    margin-top: 80px;
+}
